@@ -55,6 +55,8 @@ class MirrorStatus:
     STATUS_SPLITTING   = "Split"
     STATUS_CHECKING    = "CheckUp"
     STATUS_SEEDING     = "Seed"
+    STATUS_METADATA    = "Metadata"
+    STATUS_ATTACHMENT  = "Attachment"
 
 
 class setInterval:

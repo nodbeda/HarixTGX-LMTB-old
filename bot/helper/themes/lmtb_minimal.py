@@ -295,4 +295,6 @@ class LMTBStyle:
 ┠<b> Leech Prefix :</b> <code>{LPREFIX}</code>
 ┠<b> Leech Suffix :</b> <code>{LSUFFIX}</code>
 ┠<b> Leech Dumps :</b> <code>{LDUMP}</code>
+┠<b> Metadata :</b> <b><code>{METADATA}</code></b>
+┠<b> Attachment :</b> <code>{ATTACHMENT}</code>
 ┖<b> Leech Remname :</b> <code>{LREMNAME}</code>'''
