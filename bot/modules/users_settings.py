@@ -33,7 +33,7 @@ desp_dict = {'rcc': ['RClone is a command-line program to sync files and directo
             'lcaption': ['Leech Caption is the Custom Caption on the Leech Files Uploaded by the bot', 'Send Leech Caption. You can add HTML tags. Documentation Here : <a href="https://t.me/WZML_X/77">Click Me</a> \n<b>Timeout:</b> 60 sec'],
             'ldump': ['Leech Files User Dump for Personal Use as a Storage.', 'Send Leech Dump Channel ID\n➲ <b>Format:</b> \ntitle chat_id/@username\ntitle2 chat_id2/@username2. \n\n<b>NOTE:</b>Make Bot Admin in the Channel else it will not accept\n<b>Timeout:</b> 60 sec'],
             'lmetadata': ['Your channel name that should be used while editing metadata of the file', 'Send File Metadata\n<b>Timeout:</b> 60 sec'],
-            'lattachment': ['Attachment url, it will added in mkv as thumbnail or cover photo, whetever you say.', 'Send Telegraph photo url, example from /telegraph\n\n<b>Timeout:</b> 60 sec'],
+            'lattachment': ['Attachment url, it will added in mkv as thumbnail or cover photo, whetever you say.', 'Send Telegraph photo url\n\n<b>Timeout:</b> 60 sec'],
             'mprefix': ['Mirror Filename Prefix is the Front Part attacted with the Filename of the Mirrored/Cloned Files.', 'Send Mirror Filename Prefix. \n<b>Timeout:</b> 60 sec'],
             'msuffix': ['Mirror Filename Suffix is the End Part attached with the Filename of the Mirrored/Cloned Files', 'Send Mirror Filename Suffix. \n<b>Timeout:</b> 60 sec'],
             'mremname': ['Mirror Filename Remname is combination of Regex(s) used for removing or manipulating Filename of the Mirrored/Cloned Files', 'Send Mirror Filename Remname. \n<b>Timeout:</b> 60 sec'],
